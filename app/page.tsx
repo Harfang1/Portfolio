@@ -1,4 +1,4 @@
-import { MacbookScrollDemo } from "@/components/Macbook";
+import { MacbookScrollDemo } from "@/components/MacbookDemo";
 
 export default function Home() {
   return (
